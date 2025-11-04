@@ -1,4 +1,4 @@
-#### End to end data data pipeline using dbt, snowflake & airflow
+# End to end data data pipeline using dbt, snowflake & airflow
 
 
 ### Tech Stack:
