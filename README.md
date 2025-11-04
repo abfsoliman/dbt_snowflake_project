@@ -1,15 +1,12 @@
-Welcome to your new dbt project!
+#### End to end data data pipeline using dbt, snowflake & airflow
 
-### Using the starter project
 
-Try running the following commands:
-- dbt run
-- dbt test
-
+### Tech Stack:
+- dbt Core – For data transformation and modeling
+- Snowflake – Cloud-based data warehouse
+- Apache Airflow – Workflow automation and orchestration
+- Python – Scripting and automation
+- Git – Version control
 
 ### Resources:
-- Learn more about dbt [in the docs](https://docs.getdbt.com/docs/introduction)
-- Check out [Discourse](https://discourse.getdbt.com/) for commonly asked questions and answers
-- Join the [chat](https://community.getdbt.com/) on Slack for live discussions and support
-- Find [dbt events](https://events.getdbt.com) near you
-- Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+This project was based on the tutorial provided here "https://www.youtube.com/watch?v=RdiOhhHIAmI"
